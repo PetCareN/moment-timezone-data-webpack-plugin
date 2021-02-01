@@ -26,9 +26,7 @@
   },
   "dependencies": {
     "find-cache-dir": "^3.0.0",
-    "make-dir": "^3.0.0",
-    "webpack": "5.16",
-    "moment-timezone": "^0.5.32"
+    "make-dir": "^3.0.0"
   },
   "peerDependencies": {
     "moment-timezone": ">= 0.1.0",
@@ -44,6 +42,8 @@
     "moment": "^2.23.0",
     "moment-locales-webpack-plugin": "^1.0.7",
     "power-assert": "^1.6.1",
-    "webpack-cli": "^3.2.0"
+    "webpack-cli": "^3.2.0",
+    "webpack": "5.16",
+    "moment-timezone": "^0.5.32"
   }
 }
